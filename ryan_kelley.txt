@@ -1,0 +1,93 @@
+Ryan Sullivan Kelley | 860-916-7174 | RyanK@InfinitumDev.com
+
+Professional Summary
+--------------------
+
+Adaptable and resourceful software engineer with over three years of work experience in fast-paced, dynamic environments. Proficient with object-oriented programming and working with agile project structures, including Scrum and Extreme Programming. Strengths include:
+
+* Ruby, JavaScript, Python
+* Rails and MVC frameworks
+* Agile Methodologies
+* Object-Oriented Programming
+* Intuitive UX Design
+* Continuous Integration
+* Test-Driven Development
+* Information Security
+* Relational Databases
+* Economic Analysis
+
+Technical Proficiency
+---------------------
+
+Application Frameworks: Rails, Lotus, Padrino, Sinatra, RubyMotion, AngularJS, Node.JS, Bottle.py, Flask
+Databases and ORM: ActiveRecord, Mongoid, MongoDB, MySQL, PostgreSQL, SQLite, SQL Server
+Languages and Specifications: Ruby, JavaScript, AJAX, CoffeeScript, jQuery, CSS, HTML, Python, PHP, RSpec, SQL, Unix Shell
+Operating Systems:  Mac OS X, Unix, iOS, Windows 7+
+Security:  Devise, OAuth, Token-Based Authentication, Role-Based Authorization, Public Key Encryption, RSA, PGP/GPG, Symmetric Encryption, OpenSSL, OTP/Nonce, SSH, SSL/TLS
+Tools and Services:  Git, Heroku, AWS, cURL, NMAP, Wireshark, Virtual Box, Xcode, Balsamiq, CharlesProxy, TMUX, RubyMine, Eclipse, Visual Studio
+
+Professional Experience
+-----------------------
+
+Infinitum Development, Dallas, TX (Remote)
+Agile Software Engineer, November 2014 – Present
+I am the primary developer of web applications at Infinitum. I work closely with managers and support teams in a high-velocity, agile environment to deliver software on one and two-week sprint schedules. At the end of every sprint, I lead a live demonstration of the latest software release to clients via streaming video conference. In addition to coding, I am responsible for most cloud architecture design, and I collaborate with other development teams to integrate desktop and mobile software with the cloud applications I build.
+
+Web Gem Development, Arlington, VA
+Agile Software Consultant, February 2014 – Present
+I am the founder and lead developer at this consulting firm. In less than two years, I have successfully provided agile development and project management services to six different businesses. I provide each client with a one-stop, full-cycle solution for their software projects, beginning with design, and ending with testing and deployment.
+
+Dev Bootcamp, Chicago, IL
+Pairing Coach, November 2013 – February 2014
+I mentored and helped teach new boots introductory programming with Ruby and Javascript before their arrival at the DBC space.
+
+Recent Projects
+---------------
+
+uQontrol Cloud Platform, November 2014 - July 2015
+* Secure online shopping platform based on novel, three-factor authentication system and EMV technology 
+* Used Ruby on Rails to build uQontrol platform's cloud server
+* Implemented the pairing, purchase authorization, key initialization, authentication and registration APIs
+* Secured authentication system using RSA and AES encryption, industry-standard symmetric and public-key encryption technology
+* Translated backlog user stories into wireframes and functional diagrams at the beginning of each sprint
+* Protected server from replay attacks using time-stamped nonce in authentication procedure
+* Built services for iOS and desktop client applications using JSON-RPC over HTTPS
+* Extensive processing, encrypting, obfuscating and encoding of data for secure consumption by remote clients
+* Migrated Python code from prototype device pairing server to Ruby, used it as foundation for new pairing API
+* Facilitated integration and product support by creating concise walkthroughs and documentation on technical architecture, system requirements
+* Assisted in design and development of Qkey hardware initialization program and procedure
+* Added Apple Push Notifications to Qkey iOS application and compiled app for beta testing with TestFlight
+* Utilized sequence diagrams, UML and wireframes to model interaction, service logic, procedures and architecture 
+* Used cURL, OpenSSL, Ruby and Unix Shell scripts to test production services from command line
+* Created cloud server's standardized response structure with documented error and response codes
+* Utilized velocity tracking and estimation to measure and improve productivity
+
+uQontrol and Qkey Websites, November 2014 - April 2015
+* Created uQontrol platform customer-facing Rails website using Bootstrap, Coffeescript and Slim templates
+* Built protected administration portal using ActiveAdmin, Devise authentication and role-based authorization
+* Used Stripe API to create product ordering and redemption system
+* Added order processing, inventory and shipment managing systems using FedEx API
+* Assisted in the design and development of separate Qkey promotional/pre-orders website 
+* Protected sensitive data exchange on client-facing website using TLS encrypted connection
+
+Dental_Admin, 2014
+* Rails application provides the foundation for medical practices to develop a web platform quickly
+* Provides customizable patient management, registration and database admin system 'out of the box'
+* HIPAA-compliant appointment request system with SMS message reminders
+
+Atlantic Waterproofing, 2014
+* Developed new corporate Rails website with responsive, engaging and navigable user interfaces
+
+KarmaGrove, 2013 - 2014
+* Developed KarmaCircle payment processing system using Rails which tracks a percentage of each transaction and donates it to charity of merchant's choice
+
+Education
+
+Dev Bootcamp, Chicago, Illinois
+Web Application Development, Graduated November 2013
+* Rigorous agile web development immersion program utilizes lab setting modeled after workplace
+* Committed 70-100 hours per week, for 3 months, developing countless programs
+
+The George Washington University, Washington, D.C.
+B.A. Economics, Graduated May 2012
+* Perfect score for senior thesis, "Pitcher Productivity and the Major League Baseball Labor Market." 
